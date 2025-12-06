@@ -1,0 +1,5 @@
+{
+  "name": "VideoInsight AI",
+  "description": "An intelligent tool that analyzes videos from platforms like TikTok, Douyin, and Red to extract knowledge points and generate interactive mind maps using Gemini 2.5.",
+  "requestFramePermissions": []
+}
